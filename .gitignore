@@ -1,0 +1,30 @@
+# IDE files
+.idea/
+
+# Node.js files
+*.log*
+node_modules/
+reports/
+
+# Assembled project files
+# build/
+
+# Environment variables files
+.env
+.env.test
+.venv
+
+# pipenv files
+Pipfile*
+
+# Sass  Scss files
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
